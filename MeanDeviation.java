@@ -34,16 +34,3 @@ public class MeanDeviation {
                 "is " + roundNumbers.format(meanDeviation));
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
